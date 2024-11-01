@@ -4,6 +4,20 @@
     box-sizing: border-box;
 }
 
+
+.back-arrow {
+    display: inline-block;
+    margin: 20px;
+    font-size: 1rem;
+    color: #0073e6;
+    text-decoration: none;
+}
+
+.back-arrow:hover {
+    color: #005bb5;
+}
+
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
